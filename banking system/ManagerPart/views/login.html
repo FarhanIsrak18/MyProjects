@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+   
+	<title>Login</title>
+</head>
+<body>
+	<center>
+<form method="post" action="../controller/loginCheck.php" onclick="return validate()">	
+<fieldset>
+	<div style=" background-image: url('loginback.jfif');width: 300px;color: ghostwhite;">
+	<h1 id="head">Login</h1>
+	<!-- <legend>LOGIN</legend> -->
+	<b>Username</b><br><input type="text" id="username" name="username" value=""><br>
+    <b>Password</b><br><input type="password" id="myInput" name="password" value=""><br>
+    <input type="checkbox" onclick="myFunction()">Show Password<br>
+    <input type="submit" name="submit" value="Login">  <button><a href="signup.php">Register</a></button><br>
+   <button><a href="forgotPass.php">Forgot password</a></button>
+   </div>
+</fieldset>
+</form>
+</center>
+ <script type="text/javascript" src="script.js"></script> 
+</body>
+</html>
+
+<!----------------------------javascript --------------->
+
+<script>
+	function myFunction() {
+  var x = document.getElementById("myInput");
+  if (x.type === "password") {
+    x.type = "text";
+  } else {
+    x.type = "password";
+  }
+}
+</script>
