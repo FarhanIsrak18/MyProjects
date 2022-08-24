@@ -1,0 +1,224 @@
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\PL.dll.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\PL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\PL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\csc.exe
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\csc.exe.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\csc.rsp
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\csi.exe
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\csi.exe.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\csi.rsp
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.Managed.Core.targets
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.AppContext.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Collections.Immutable.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Console.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Globalization.Calendars.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.IO.Compression.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.IO.FileSystem.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Net.Http.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Net.Sockets.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Reflection.Metadata.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.ValueTuple.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Xml.XmlDocument.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Xml.XPath.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\vbc.exe
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\vbc.exe.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\vbc.rsp
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\VBCSCompiler.exe
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\roslyn\VBCSCompiler.exe.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\BLL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Newtonsoft.Json.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Net.Http.Formatting.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Http.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Http.WebHost.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\DAL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\EntityFramework.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\BLL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Newtonsoft.Json.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Net.Http.Formatting.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Http.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Http.WebHost.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\DAL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\DAL.dll.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\EntityFramework.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\obj\Debug\AL.csprojAssemblyReference.cache
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\obj\Debug\AL.csproj.CoreCompileInputs.cache
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\obj\Debug\AL.csproj.CopyComplete
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\obj\Debug\PL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\obj\Debug\PL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\EntityFramework.SqlServer.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\EntityFramework.SqlServer.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Cors.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Http.Cors.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Web.Http.Cors.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Cors.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Options.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Primitives.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Net.Http.Headers.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Buffers.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.ComponentModel.Annotations.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Memory.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Numerics.Vectors.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Text.Encodings.Web.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Cors.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Options.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Extensions.Primitives.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\Microsoft.Net.Http.Headers.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Buffers.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Memory.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Numerics.Vectors.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\PL\bin\System.Text.Encodings.Web.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\obj\Debug\AL.csproj.AssemblyReference.cache
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\obj\Debug\AL.csproj.CoreCompileInputs.cache
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\obj\Debug\PL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\obj\Debug\PL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\PL.dll.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\PL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\PL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\csc.exe
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\csc.exe.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\csc.rsp
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\csi.exe
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\csi.exe.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\csi.rsp
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.AppContext.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Collections.Immutable.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Console.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Globalization.Calendars.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.IO.Compression.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.IO.FileSystem.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Net.Http.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Net.Sockets.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.ValueTuple.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Xml.XPath.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\vbc.exe
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\vbc.exe.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\vbc.rsp
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\VBCSCompiler.exe
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\roslyn\VBCSCompiler.exe.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\BLL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\EntityFramework.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\EntityFramework.SqlServer.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Cors.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Options.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Primitives.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Net.Http.Headers.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Newtonsoft.Json.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Buffers.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.ComponentModel.Annotations.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Memory.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Net.Http.Formatting.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Numerics.Vectors.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Text.Encodings.Web.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Cors.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Http.Cors.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Http.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Http.WebHost.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\DAL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\BLL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\EntityFramework.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\EntityFramework.SqlServer.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Cors.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Options.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Extensions.Primitives.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.Net.Http.Headers.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Buffers.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Memory.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Net.Http.Formatting.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Numerics.Vectors.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Text.Encodings.Web.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Http.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Http.Cors.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Newtonsoft.Json.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\System.Web.Http.WebHost.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\DAL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\bin\DAL.dll.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\PL\obj\Debug\AL.csproj.CopyComplete

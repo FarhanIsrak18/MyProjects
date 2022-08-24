@@ -1,0 +1,24 @@
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\BLL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\BLL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\DAL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\EntityFramework.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\DAL.pdb
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\DAL.dll.config
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\bin\Debug\EntityFramework.xml
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\obj\Debug\BLL.dll
+G:\13th semester\.net\Advancde.NET-Final-Project\ERP.NET\BLL\obj\Debug\BLL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\obj\Debug\BLL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\obj\Debug\BLL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\BLL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\BLL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\DAL.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\EntityFramework.dll
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\DAL.pdb
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\DAL.dll.config
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\bin\Debug\EntityFramework.xml
+D:\Advancde.NET-Final-Project-main\ERP.NET\BLL\obj\Debug\BLL.csproj.CopyComplete
